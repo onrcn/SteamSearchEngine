@@ -1,2 +1,2 @@
 # SteamSearchEngine
-CENG476 Big Data Project
+A Big Data Project
